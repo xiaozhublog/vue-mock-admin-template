@@ -1,12 +1,12 @@
-# Yidee-vue-admin-template
-> 这是一个包含基础权限管理的后台。
-## Build Setup
+# vue-mock-admin-template
+> 一个Vue+element+mock的基础开发模板。
+# 构建
 ```bash
 # 克隆项目
-git clone https://gitee.com/xiaozhublog_com/yidee-vue-admin-template.git
+git clone https://gitee.com/xiaozhublog_com/vue-mock-admin-template.git
 
 # 进入项目目录
-cd yidee-vue-admin-template
+cd vue-mock-admin-template
 
 # 安装依赖
 npm install
