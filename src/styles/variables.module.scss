@@ -1,0 +1,20 @@
+// 侧栏宽度
+$sideBarWidth: 260px;
+$sideBarMenuBg:#f7f7fa;
+$sideBarMenuText:#6f6f6f;
+
+$sideBarMenuActiveText:#409EFF;
+$sideBarMenuActiveBg:#fff;
+
+$sideBarMenuHoverText:#409EFF;
+$sideBarMenuHoverBg:#fff;
+
+:export {
+  sideBarWidth: $sideBarWidth;
+  sideBarMenuBg:$sideBarMenuBg;
+  sideBarMenuText:$sideBarMenuText;
+  sideBarMenuActiveText:$sideBarMenuActiveText;
+  sideBarMenuActiveBg:$sideBarMenuActiveBg;
+  sideBarMenuHoverText:$sideBarMenuHoverText;
+  sideBarMenuHoverBg:$sideBarMenuHoverBg;
+}
